@@ -1,2 +1,3 @@
-src.connection.ConnectionConfig# Project exclude paths
+# Project exclude paths
 /out/
+connection.*
